@@ -5,5 +5,8 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="/icons/coloured/javascript-colored.svg" width="40" height="40" alt="JavaScript" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="/icons/coloured/html5-colored.svg" width="40" height="40" alt="HTML5" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="/icons/coloured/css3-colored.svg" width="40" height="40" alt="CSS3" /></a>
+  <a href="https://react.dev/reference/react" target="_blank" rel="noreferrer"><img src="/icons/coloured/react-colored.svg" width="40" height="40" alt="React" /></a>
+  <a href="https://www.typescriptlang.org/docs/handbook/intro.html" target="_blank" rel="noreferrer"><img src="/icons/coloured/typescript-colored.svg" width="40" height="40" alt="TypeScript" /></a>
 
+  
 </p>
