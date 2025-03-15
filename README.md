@@ -14,5 +14,4 @@
   <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="/icons/coloured/supabase-colored.svg" width="40" height="40" alt="Supabase" /></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="/icons/coloured/mongodb-colored.svg" width="40" height="40" alt="MongoDB" /></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="/icons/coloured/figma-colored.svg" width="40" height="40" alt="Figma" /></a>
-  <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="/icons/coloured/xd-colored.svg" width="40" height="40" alt="XD" /></a>
 </p>
