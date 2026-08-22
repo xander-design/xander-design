@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/fb28131c-400c-44e2-8527-d7c52eace3c8)
+![image](https://github.com/user-attachments/assets/a853e2a0-e10d-4504-868f-e29e9ec24cae)
 
 <p align="center" vertical-align="middle">
   <a href="https://react.dev" target="_blank" rel="noreferrer"><img src="/icons/coloured/react-colored.svg" width="40" height="40" alt="React" /></a>
