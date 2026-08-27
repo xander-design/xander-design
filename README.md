@@ -1,4 +1,4 @@
-<img width="100%" alt="books" src="https://github.com/user-attachments/assets/7f693cdc-4c9d-45f2-a5d4-2c75e6761334" />
+![image](https://github.com/user-attachments/assets/7f693cdc-4c9d-45f2-a5d4-2c75e6761334)
 
 <p align="center" vertical-align="middle">
   <a href="https://react.dev" target="_blank" rel="noreferrer"><img src="/icons/coloured/react-colored.svg" width="40" height="40" alt="React" /></a>
