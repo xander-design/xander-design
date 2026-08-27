@@ -9,6 +9,5 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="/icons/coloured/css3-colored.svg" width="40" height="40" alt="CSS3" /></a>
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="/icons/coloured/tailwindcss-colored.svg" width="40" height="40" alt="TailwindCSS" /></a>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="/icons/coloured/nodejs-colored.svg" width="40" height="40" alt="NodeJS" /></a>
-  <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="/icons/coloured/supabase-colored.svg" width="40" height="40" alt="Supabase" /></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="/icons/coloured/figma-colored.svg" width="40" height="40" alt="Figma" /></a>
 </p>
